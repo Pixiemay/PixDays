@@ -1,0 +1,11 @@
+name: PixDays
+version: '1.0'
+main: org.pixiemays.pixDays.PixDays
+api-version: '1.20'
+description: Plugin for display count lived days in actionbar
+authors: [ pixiemays ]
+website: https://pixiemays.vercel.app
+commands:
+  toggledays:
+    description: Включить или выключить отображение дней
+    usage: /toggledays
